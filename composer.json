@@ -1,0 +1,14 @@
+{
+    "name": "jworkman/secure-file-uploads",
+    "description": "Upload secured files to Wordpress WP-JSON API that can only be seen by logged in users",
+    "type": "wordpress-plugin",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Justin Workman",
+            "email": "jworkmandevelopment@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
